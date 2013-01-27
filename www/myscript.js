@@ -2,7 +2,7 @@ $(document).ready(function() {
                   
     $('#ajax-loader').hide();
     var languageFrom = "en";
-    var apiKey = "B8Ysa5LXFt";
+    var apiKey = "SECRET";
 	
 
 	// Album image picker
